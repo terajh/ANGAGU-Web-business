@@ -1,4 +1,4 @@
-# About ANGANU Web Business Frontend
+<h1 align="center"> About ANGANU Web Business Frontend </h1>
 
 <br>
 <br>
